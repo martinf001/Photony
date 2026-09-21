@@ -27,11 +27,24 @@ This repository serves as a public research hub for Photony materials, including
 - proposed experiments and testable predictions
 - revisions and updates
 
-## The Photony Electromagnetic Compendium
+## Books
 
+### The Photony Electromagnetic Compendium
+
+A structural interpretation of electromagnetic energy transport, coupling, storage, breakdown, AC behavior, antennas, signal integrity, and electromagnetic compatibility within the Photony framework.
 [Download The Photony Electromagnetic Compendium](https://github.com/martinf001/Photony/releases/download/v1.0/The_Photony_Electromagnetic_Compendium.pdf)
 
-The goal is to make the Photony framework transparent, citable, technically accessible, and open to serious scientific examination and discussion.
-
-**Author:** Fred Lane Martin, Ph.D.  
+**Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
+ORCID: https://orcid.org/0000-0001-8102-380X
+DOI: https://doi.org/YOUR-DOI-HERE
+ISBN: 978-0-9980347-5-1
+DOI: 10.5281/ZENODO.22850207
+Published 2026
+1st edition
+
+## Articles
+
+Research articles related to Photony Theory, Beyond Field-Line electromagnetics, magnetic breakdown, electric energy release, AC electromagnetic transport, and related topics will be added here.
+
+
