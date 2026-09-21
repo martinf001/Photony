@@ -27,7 +27,9 @@ This repository serves as a public research hub for Photony materials, including
 - proposed experiments and testable predictions
 - revisions and updates
 
-[Download the Photony Electromagnetic Compendium](https://raw.githubusercontent.com/martinf001/Photony/main/The_Photony_Electromagnetic_Compendium.pdf)
+## The Photony Electromagnetic Compendium
+
+[Download the complete PDF](https://raw.githubusercontent.com/martinf001/Photony/master/The_Photony_Electromagnetic_Compendium.pdf)
 
 The goal is to make the Photony framework transparent, citable, technically accessible, and open to serious scientific examination and discussion.
 
