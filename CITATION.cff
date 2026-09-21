@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or discuss Photony Theory, please cite this repository and the relevant published work."
+title: "Photony Theory"
+type: software
+authors:
+  - family-names: "Martin"
+    given-names: "Fred Lane"
+    orcid: "https://orcid.org/0000-0001-8102-380X"
+version: "1.0"
+date-released: "2026-09-20"
+abstract: >
+  Photony Theory is a proposed physical framework developed by Fred Lane Martin
+  to explore the underlying structure of space, energy, matter, electromagnetism,
+  gravitation, and time. The framework includes Planck Space, elemental charge
+  photons, electron-mediated transduction, electric chains, magnetic chains,
+  and classical photons.
+repository-code: "repository-code: "https://github.com/martinf001/Photony""
