@@ -32,6 +32,7 @@ This repository serves as a public research hub for Photony materials, including
 ### The Photony Electromagnetic Compendium
 
 A structural interpretation of electromagnetic energy transport, coupling, storage, breakdown, AC behavior, antennas, signal integrity, and electromagnetic compatibility within the Photony framework.
+
 [Download The Photony Electromagnetic Compendium](https://github.com/martinf001/Photony/releases/download/v1.0/The_Photony_Electromagnetic_Compendium.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
