@@ -37,7 +37,6 @@ A structural interpretation of electromagnetic energy transport, coupling, stora
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
 ORCID: https://orcid.org/0000-0001-8102-380X
-DOI: https://doi.org/YOUR-DOI-HERE
 ISBN: 978-0-9980347-5-1
 DOI: 10.5281/ZENODO.22850207
 Published 2026
