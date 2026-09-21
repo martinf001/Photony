@@ -41,7 +41,7 @@ ORCID: https://orcid.org/0000-0001-8102-380X
 
 ISBN: 978-0-9980347-5-1
 
-DOI: 10.5281/ZENODO.22850207
+DOI: https://doi.org/10.5281/zenodo.22850207
 
 Published 2026
 
