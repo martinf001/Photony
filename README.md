@@ -29,7 +29,7 @@ This repository serves as a public research hub for Photony materials, including
 
 ## Books
 
-### The Photony Electromagnetic Compendium, Vol VI
+### The Photony Electromagnetic Compendium, Vol VIII
 
 A structural interpretation of electromagnetic energy transport, coupling, storage, breakdown, AC behavior, antennas, signal integrity, and electromagnetic compatibility within the Photony framework.
 
