@@ -74,6 +74,29 @@ Published 2026
 
 
 
+### Photony Foundations
+
+Photony Foundations introduces the core concepts of the Photony framework, including Planck Space, elemental charge photons, classical photons, electron structure, electric and magnetic chain organization, gravitation, time, and the proposed relationship between geometry, energy, matter, and electromagnetic behavior. It establishes the conceptual basis from which the later Photony Compendium volumes develop more specialized mathematical, electromagnetic, plasma, and astrophysical applications.
+
+
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+ISBN: 978-0-9980347-1-3
+
+DOI: https://doi.org/10.5281/zenodo.22895898
+
+Published 2022
+
+1st edition
+
+
+
+
+
 
 
 ## Articles
