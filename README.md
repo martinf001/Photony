@@ -20,12 +20,12 @@ This repository serves as a public research hub for Photony materials, including
 
 - books and articles
 - mathematical development
-- electromagnetic applications
-- figures and diagrams
+- electromagnetic development
+- Dissertation/Research Work
 - supporting calculations
 - references
-- proposed experiments and testable predictions
-- revisions and updates
+- unprecedented and interdisciplianry
+- implications
 
 ## Books
 
