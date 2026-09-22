@@ -95,6 +95,29 @@ Published 2022
 
 
 
+## Dissertation
+
+### Causes and Predictors of Solar Storms
+
+Causes and Predictors of Solar Storms investigates the physical causes and forecasting of solar flares, coronal mass ejections, and solar-cycle activity by combining established solar physics with the proposed Photony framework. The dissertation develops Magnetic Breakdown as a proposed incipient mechanism preceding magnetic reconnection, examines flux tubes, plasma behavior, particle acceleration, and solar magnetic energy release, and evaluates observational evidence from instruments including Parker Solar Probe and the Solar Dynamics Observatory. It also develops an early energy-release-rate method for distinguishing M-class from X-class flares before full development, with the broader goal of improving space-weather prediction and infrastructure risk mitigation.
+
+The dissertation was submitted for the Doctor of Philosophy degree at the University of Tennessee, Knoxville, in May 2026.
+
+[Download Causes and Predictors of Solar Storms](https://github.com/martinf001/Photony/releases/latest/download/Dissertation.with.final.chapter.2-17-2026.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+DOI: https://doi.org/10.5281/zenodo.22903609
+
+
+
+
+
+
+
+
+
 
 
 
