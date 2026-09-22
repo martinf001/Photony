@@ -50,6 +50,32 @@ Published 2026
 
 
 
+### The Photony Mathematical Compendium
+
+### The Photony Mathematical Compendium, Volume VI
+
+A mathematical development of the Photony framework, including Planck Space geometry, discrete lattice operators, scaling laws, threshold behavior, collision rules, instability, reassignment, and electric and magnetic breakdown regimes.
+
+[Download The Photony Electromagnetic Compendium](https://github.com/martinf001/Photony/releases/download/v1.0/The_Photony_Electromagnetic_Compendium.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+ISBN: 978-0-9980347-4-4
+
+DOI: https://doi.org/10.5281/zenodo.18328619
+
+Published 2026
+
+1st edition
+
+
+
+
+
+
 ## Articles
 
 Research articles related to Photony Theory, Beyond Field-Line electromagnetics, magnetic breakdown, electric energy release, AC electromagnetic transport, and related topics will be added here.
