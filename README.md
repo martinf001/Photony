@@ -103,4 +103,26 @@ Published 2022
 
 Research articles related to Photony Theory, Beyond Field-Line electromagnetics, magnetic breakdown, electric energy release, AC electromagnetic transport, and related topics will be added here.
 
+### From Magnetic and Electric Fields to Fires
+
+From Magnetic and Electric Fields to Fires traces a continuous energy pathway from solar magnetic energy release to electrical failure and fire hazards on Earth. Using the Carrington Event as a historical benchmark, the article follows magnetic breakdown and reconnection at the Sun through coronal mass ejection propagation, magnetospheric coupling, geomagnetically induced electric fields, and currents in long terrestrial conductors. It then examines how those currents can produce voltage stress, arcing, resistive heating, insulation failure, and ignition. The paper combines established space-weather, power-engineering, and EMC concepts with the Photony interpretation of magnetic-chain breakdown in highly conductive plasma and electric-chain breakdown in lower-conductivity terrestrial systems.
+
+[Download Photony Foundations, First Edition](https://github.com/martinf001/Photony/releases/download/v1.2/Photony.Foundations.8-1-2024.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+ISBN: 978-0-9980347-1-3
+
+DOI: https://doi.org/10.5281/zenodo.22895898
+
+Published 2022
+
+
+
+
+
+
 
