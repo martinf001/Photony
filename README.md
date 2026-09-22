@@ -21,7 +21,7 @@ This repository serves as a public research hub for Photony materials, including
 - books and articles
 - mathematical development
 - electromagnetic development
-- Dissertation/Research Work
+- dissertation/research Work
 - supporting calculations
 - references
 - unprecedented and interdisciplianry
