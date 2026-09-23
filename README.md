@@ -162,6 +162,25 @@ https://doi.org/10.20944/preprints202601.1737.v1
 Published 2026
 
 
+### Beyond Field-Line Descriptions: Electric Energy Release Regimes
+
+Electric energy-release events occur across natural, industrial, and engineered systems,
+from static discharge and dielectric failure to lightning, electrical arcing, and deliberate spark
+ignition. This article examines these phenomena as related threshold-driven transitions in
+which electric energy accumulates within a charge-separated system and is released when an
+insulating, resistive, or incompletely conducting region can no longer sustain the imposed electric
+organization.
+
+[Download Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes](https://github.com/martinf001/Photony/releases/download/Electv1/Beyond_Field_Line_Descriptions__Electric_Energy_Release_Regimes.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+https://doi.org/10.20944/preprints202601.1737.v1
+
+Published 2026
 
 
 
@@ -170,4 +189,3 @@ Published 2026
 
 
 
-Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes.pdf
