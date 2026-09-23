@@ -157,7 +157,7 @@ energy at the onset of magnetic reassignment and reconnection.
 
 ORCID: https://orcid.org/0000-0001-8102-380X
 
-https://doi.org/10.20944/preprints202601.1737.v1
+ https://doi.org/10.20944/preprints202608.0626.v1
 
 Published 2026
 
@@ -178,7 +178,7 @@ organization.
 
 ORCID: https://orcid.org/0000-0001-8102-380X
 
-https://doi.org/10.20944/preprints202601.1737.v1
+DOI: https://doi.org/10.20944/preprints202609.0498.v1
 
 Published 2026
 
