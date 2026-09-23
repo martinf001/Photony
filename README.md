@@ -150,8 +150,7 @@ This article introduces magnetic breakdown as a proposed threshold-driven phenom
 which a pre-existing, current-supported magnetic structure loses local stability and releases
 energy at the onset of magnetic reassignment and reconnection.
 
-[Download From Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes]
-https://github.com/martinf001/Photony/releases/download/magv1/Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes.pdf)
+[Download From Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes]https://github.com/martinf001/Photony/releases/download/magv1/Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
