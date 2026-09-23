@@ -142,7 +142,7 @@ https://doi.org/10.20944/preprints202601.1737.v1
 Published 2022
 
 
-### From Magnetic and Electric Fields to Fires
+### Beyond Field-Line Descriptions: Magnetic Energy Release Regimes
 
 Magnetic reconnection describes the rapid conversion of stored magnetic energy during solar
 flares, yet the physical mechanism initiating the earliest release remains incompletely resolved.
@@ -160,7 +160,7 @@ ORCID: https://orcid.org/0000-0001-8102-380X
 
 https://doi.org/10.20944/preprints202601.1737.v1
 
-Published 2022
+Published 2026
 
 
 
