@@ -213,7 +213,7 @@ which electric energy accumulates within a charge-separated system and is releas
 insulating, resistive, or incompletely conducting region can no longer sustain the imposed electric
 organization.
 
-[Download Beyond_Field_Line_Descriptions__Magnetic_Energy_Release_Regimes](https://github.com/martinf001/Photony/releases/download/Electv1/Beyond_Field_Line_Descriptions__Electric_Energy_Release_Regimes.pdf)
+[Download Beyond_Field_Line_Descriptions__Electric_Energy_Release_Regimes](https://github.com/martinf001/Photony/releases/download/Electv1/Beyond_Field_Line_Descriptions__Electric_Energy_Release_Regimes.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
