@@ -226,6 +226,25 @@ Published 2026
 
 
 
+### Beyond Field-Line Descriptions: A Unified Threshold Framework for Electric and Magnetic Energy-Release Regimes
+
+Beyond Field-Line Descriptions: A Unified Threshold Framework for Electric and Magnetic Energy-Release Regimes develops a common threshold and regime-selection framework for rapid electromagnetic energy-release events. The article distinguishes electric breakdown, magnetic reassignment, and magnetic breakdown as physically different post-threshold branches that can arise after a common sequence of electromagnetic energy storage, progressive structural loading, instability, environmental selection, and release.
+
+The framework retains Maxwell's equations, electromagnetic energy density, conductivity, current transport, and Poynting energy flow as the established macroscopic basis while introducing complementary Photony structural concepts involving electric and magnetic chain organization, electron-mediated transduction, geometry, and continuity. An effective loading measure represents approach to the instability boundary, an environmental-selection measure represents the physical conditions favoring electric or magnetic post-threshold behavior, and a magnetic admissibility condition distinguishes magnetic reassignment from magnetic breakdown according to whether an admissible continuation remains available.
+
+The article emphasizes prediction over retrospective classification by relating the proposed branches to measurable pre-event quantities, including electric and magnetic field strength, conductivity, current density, electron density, geometry, curvature, stored electromagnetic energy, and Poynting energy flow.
+
+[Download Beyond Field-Line Descriptions: A Unified Threshold Framework for Electric and Magnetic Energy-Release Regimes](https://github.com/martinf001/Photony/releases/download/pub-v1/Beyond_Field_Line_Descriptions__Energy_Release_Regimes.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202609.0487.v1
+Published 2026
+
+
 
 
 
