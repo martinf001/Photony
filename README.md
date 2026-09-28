@@ -234,7 +234,7 @@ The framework retains Maxwell's equations, electromagnetic energy density, condu
 
 The article emphasizes prediction over retrospective classification by relating the proposed branches to measurable pre-event quantities, including electric and magnetic field strength, conductivity, current density, electron density, geometry, curvature, stored electromagnetic energy, and Poynting energy flow.
 
-[Download Beyond Field-Line Descriptions: A Unified Threshold Framework for Electric and Magnetic Energy-Release Regimes](https://github.com/martinf001/Photony/releases/download/pub-v1/Beyond_Field_Line_Descriptions__Energy_Release_Regimes.pdf)
+[Download Beyond Field-Line Descriptions: A Unified Threshold Framework for Electric and Magnetic Energy-Release Regimes](https://github.com/martinf001/Photony/releases/download/emuni-v1/Beyond_Field_Line_Descriptions__Energy_Release_Regimes.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
