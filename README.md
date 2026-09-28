@@ -77,7 +77,7 @@ Published 2026
 
 Photony Energy Science Compendium, Volume IV develops a Photony-based interpretation of energy science from the Planck scale to practical energy systems. Topics include thermodynamics, bonding, electromagnetism, electricity and magnetism, solar and nuclear energy, solar magnetic activity, magnetic breakdown, space weather, atmospheric energy transport, photovoltaics, photosynthesis, and renewable-energy conversion. The volume connects the foundational mechanics of Photony Theory with the generation, transmission, conversion, storage, and utilization of energy across scales.
 
-[Download The Photony Energy Science Compendium, Volume IV](https://github.com/martinf001/Photony/releases/download/math-v1.0/Photony.Compendium-.Volume.IV.pdf)
+[Download The Photony Energy Science Compendium, Volume IV](https://github.com/martinf001/Photony/releases/download/EnSi-v1/Photony.Compendium-.Volume.IV.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
@@ -92,7 +92,7 @@ Published 2026
 
 1st edition
 
-
+https://github.com/martinf001/Photony/releases/download/EnSi-v1/Photony.Compendium-.Volume.IV.pdf
 
 ### Photony Foundations
 
