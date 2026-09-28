@@ -88,11 +88,11 @@ ISBN: 978-0-9980347-3-7
 
 DOI: https://doi.org/10.5281/zenodo.18328619
 
-Published 2026
+Published 2025
 
 1st edition
 
-https://github.com/martinf001/Photony/releases/download/EnSi-v1/Photony.Compendium-.Volume.IV.pdf
+
 
 ### Photony Foundations
 
