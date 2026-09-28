@@ -73,6 +73,28 @@ Published 2026
 
 
 
+### The Photony Unification Compendium, Volume V
+
+Photony Unification Compendium, Volume V brings together the major elements of Photony Theory into a proposed unification framework spanning spacetime, energy, quanta, particles, forces, fields, quantum mechanics, relativity, and the Standard Model. The volume develops Photony's "Big Theory of Everything" approach through the interaction of energy filaments with quasi-static Planck Space and the SGEMT, QPC, and EMFF unification classes. Topics include general and special relativity, quantum mechanics, QED, QCD, QFT, quantum gravity, electroweak theory, wave-particle duality, the Schrödinger equation, the Heisenberg uncertainty principle, quantum entanglement, the Standard Model, the Higgs field, Photony photon and electron models, and the Photony approach to unification. The book also includes a Photony Foundations Primer, Photony Postulates, an Einstein field-equation derivation, and supporting appendices.
+
+[Download The Photony Unification Compendium, Volume V](https://github.com/martinf001/Photony/releases/download/RELEASE-TAG/Photony.Compendium-.Volume.V.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+ISBN: 978-0-9980347-2-0
+
+DOI: https://doi.org/10.5281/zenodo.23018588
+
+Published 2024
+
+1st edition
+
+
+
+
 ### The Photony Energy Science Compendium, Volume IV
 
 Photony Energy Science Compendium, Volume IV develops a Photony-based interpretation of energy science from the Planck scale to practical energy systems. Topics include thermodynamics, bonding, electromagnetism, electricity and magnetism, solar and nuclear energy, solar magnetic activity, magnetic breakdown, space weather, atmospheric energy transport, photovoltaics, photosynthesis, and renewable-energy conversion. The volume connects the foundational mechanics of Photony Theory with the generation, transmission, conversion, storage, and utilization of energy across scales.
