@@ -247,6 +247,49 @@ Published 2026
 
 
 
+### Beyond Field-Line Descriptions: Alternating Electromagnetic Energy Transport in AC Systems
+
+Beyond Field-Line Descriptions: Alternating Electromagnetic Energy Transport in AC Systems develops a complementary physical interpretation of how electric and magnetic organization repeatedly grows, decreases, reverses, and rebuilds during alternating-current operation. Conventional AC equations, electromagnetic field relations, impedance, phase, reactive power, energy storage, and Poynting energy flow are retained as the quantitative foundation, while the Photony framework introduces a structural interpretation based on electron-mediated electromagnetic chains.
+
+The article distinguishes between surface-associated and internal electrons. Surface-associated electrons are proposed to participate predominantly in electric-chain organization related to voltage and capacitive energy storage, while internal electrons are proposed to participate predominantly in magnetic-chain organization related to current and inductive energy storage. Alternating excitation is interpreted as a recurring sequence of transduction, growth, reduction, pinch-off, reversal, and renewed transduction.
+
+The article focuses on capacitive and inductive energy exchange, reactive power, phase relationships, voltage and current reversals, conductor-surface effects, skin depth, and the distinction between electromagnetic energy storage and energy transport. The article also relates the proposed chain structures to the conventional Poynting vector, emphasizing that conductors guide electromagnetic energy while substantial energy transport can occur in the surrounding field region.
+
+[Download Beyond Field-Line Descriptions: Alternating Electromagnetic Energy Transport in AC Systems](https://github.com/martinf001/Photony/releases/download/ac-v1/Beyond_Field_Line_Descriptions__Alternating_Electromagnetic_Energy_Transport_in_AC_Systems.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202609.0628.v1
+
+Published 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
