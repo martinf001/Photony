@@ -10,7 +10,7 @@ Photony does not replace established physics. Maxwell's equations, electromagnet
 
 ## About Dr. Fred Lane Martin
 
-Fred Lane Martin, Ph.D., is an engineer, researcher, inventor, author, educator, and registered USPTO patent agent. He earned his Ph.D. in Energy Science and Engineering through the Bredesen Center at the University of Tennessee in 2026.
+Dr. Fred Lane Martin, Ph.D., is an engineer, researcher, inventor, author, educator, and registered USPTO patent agent. He earned his Ph.D. in Energy Science and Engineering through the Bredesen Center at the University of Tennessee in 2026.
 
 His work spans electrical engineering, energy science, electromagnetic systems, solar and plasma phenomena, intellectual property, and fundamental physical theory. He is the author of *Photony Foundations* and multiple volumes of *The Photony Compendium*.
 
@@ -247,30 +247,26 @@ Published 2026
 
 
 
-### Beyond Field-Line Descriptions: Alternating Electromagnetic Energy Transport in AC Systems
+### Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas
 
-Beyond Field-Line Descriptions: Alternating Electromagnetic Energy Transport in AC Systems develops a complementary physical interpretation of how electric and magnetic organization repeatedly grows, decreases, reverses, and rebuilds during alternating-current operation. Conventional AC equations, electromagnetic field relations, impedance, phase, reactive power, energy storage, and Poynting energy flow are retained as the quantitative foundation, while the Photony framework introduces a structural interpretation based on electron-mediated electromagnetic chains.
+Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas develops a complementary structural interpretation of how alternating electrical excitation in an antenna becomes outward electromagnetic radiation. Conventional antenna theory, including current and charge distributions, standing waves, impedance, near and far fields, radiation resistance, and Poynting-vector energy transport, remains the quantitative foundation.
+The article treats the antenna as a spatially distributed electron-transduction system. High-current regions are associated predominantly with magnetic structuring through internal electrons, while high-voltage regions are associated predominantly with electric structuring through surface-associated electrons. In a resonant dipole, this creates a continuous spatial transition from magnetic dominance near the feed region toward increasing electric structuring near the antenna ends.
+During each half-cycle, changing current and voltage conditions produce repeated transduction, growth, reduction, reversal, and pinch-off of the proposed magnetic and electric chain structures. The article examines the distinct timing of magnetic and electric pinch-off, the redistribution of electromagnetic organization along a dipole, the transition from reactive near-field structure to net outward radiation, and the relationship between the proposed Photony chain interpretation and conventional Poynting-vector energy transport.
 
 The article distinguishes between surface-associated and internal electrons. Surface-associated electrons are proposed to participate predominantly in electric-chain organization related to voltage and capacitive energy storage, while internal electrons are proposed to participate predominantly in magnetic-chain organization related to current and inductive energy storage. Alternating excitation is interpreted as a recurring sequence of transduction, growth, reduction, pinch-off, reversal, and renewed transduction.
 
 The article focuses on capacitive and inductive energy exchange, reactive power, phase relationships, voltage and current reversals, conductor-surface effects, skin depth, and the distinction between electromagnetic energy storage and energy transport. The article also relates the proposed chain structures to the conventional Poynting vector, emphasizing that conductors guide electromagnetic energy while substantial energy transport can occur in the surrounding field region.
 
-[Download Beyond Field-Line Descriptions: Alternating Electromagnetic Energy Transport in AC Systems](https://github.com/martinf001/Photony/releases/download/ac-v1/Beyond_Field_Line_Descriptions__Alternating_Electromagnetic_Energy_Transport_in_AC_Systems.pdf)
+[Download Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas](https://github.com/martinf001/Photony/releases/download/RELEASE-TAG/Beyond_Field_Line_Descriptions__Electromagnetic_Energy_Transport_in_Intended_Antennas.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
 
 ORCID: https://orcid.org/0000-0001-8102-380X
 
-DOI: https://doi.org/10.20944/preprints202609.0628.v1
+DOI: https://doi.org/10.20944/preprints202609.0708.v1
 
 Published 2026
-
-
-
-
-
-
 
 
 
