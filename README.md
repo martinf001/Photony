@@ -257,7 +257,7 @@ The article distinguishes between surface-associated and internal electrons. Sur
 
 The article focuses on capacitive and inductive energy exchange, reactive power, phase relationships, voltage and current reversals, conductor-surface effects, skin depth, and the distinction between electromagnetic energy storage and energy transport. The article also relates the proposed chain structures to the conventional Poynting vector, emphasizing that conductors guide electromagnetic energy while substantial energy transport can occur in the surrounding field region.
 
-[Download Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas](https://github.com/martinf001/Photony/releases/download/RELEASE-TAG/Beyond_Field_Line_Descriptions__Electromagnetic_Energy_Transport_in_Intended_Antennas.pdf)
+[Download Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas](https://github.com/martinf001/Photony/releases/download/intant-v1/Beyond_Field_Line_Descriptions__Electromagnetic_Energy_Transport_in_Intended_Antennas.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
