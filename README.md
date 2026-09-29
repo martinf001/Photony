@@ -273,11 +273,12 @@ Published 2026
 
 ### Magnetic Breakdown: A Threshold-Driven Mechanism for Solar-Flare Energy Release and Reconnection Onset
 
-Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity develops a unified structural interpretation of unintended electromagnetic radiation, electromagnetic compatibility, and signal-integrity behavior. Conventional EMC and SI theory remains the quantitative foundation, including transmission-line behavior, impedance, reflections, resonance, differential- and common-mode currents, parasitic capacitance and inductance, return-path geometry, skin effect, shielding, near-field coupling, radiated emissions, and Poynting energy transport.
+Magnetic Breakdown: A Threshold-Driven Mechanism for Solar-Flare Energy Release and Reconnection Onset develops Magnetic Breakdown as a proposed threshold-driven mechanism for the earliest rapid release of stored magnetic free energy in solar flares. The article does not replace magnetic reconnection. Instead, it distinguishes localized magnetic structural failure from magnetic reassignment and from the larger-scale reconnection process that follows or overlaps with it.
 
-The article examines how traces, cables, connectors, shields, reference planes, enclosure structures, and other conductors can become unintended antennas when geometry, frequency, discontinuities, imbalance, or resonance allow substantial spatial variation of current and voltage. Within the Photony framework, internal electrons predominantly support current-associated magnetic structuring, while surface-associated electrons predominantly support voltage- and charge-associated electric structuring. Signal-integrity degradation and EMC behavior are treated as related consequences of changes in the organization, redistribution, coupling, and release of electromagnetic energy.
+Within the Photony framework, internal free electrons transduce dynamic elemental charge photons into closed magnetic chains, which organize into fibrils and larger current-supported structures such as flux tubes, coronal loops, and flux ropes. Increasing chain density, curvature, compression, twist, confinement, current concentration, and interaction can initially be accommodated through deformation, redistribution, or reassignment. Magnetic Breakdown is proposed to occur only when those mechanisms can no longer preserve local magnetic-chain continuity.
+The article retains conventional electromagnetic and plasma-physics relations as the quantitative foundation, including magnetic-energy density, Poynting flux, Ampere-law current-sheet scaling, Alfvén-speed relations, Sweet-Parker reconnection geometry, flare-energy partition, and magnetic free-energy accounting. These established relations are combined with a structural threshold framework intended to distinguish accommodation, reassignment, and breakdown.
 
-Particular attention is given to return-path discontinuities, common-mode conversion, reflections, standing waves, conductor-surface localization, crosstalk, ingress, egress, and the transition from controlled signal transport to unintended coupling or radiation. This paper examines conductive, capacitive, inductive, and radiative coupling as four interrelated pathways through which electromagnetic energy can move from a source, through a coupling path, to a victim.
+Particular attention is given to solar active regions, current-sheet formation, interacting flux systems, flux-rope twist, fibril loading, localized fragmentation, modeled flare-energy-release timelines, observational signatures, and the transition from local threshold crossing to larger-scale reconnection and eruption development. The article emphasizes testability by identifying measurable conditions and timing relationships that could distinguish Magnetic Breakdown from conventional reconnection onset mechanisms.
 
 [Download Magnetic Breakdown: A Threshold-Driven Mechanism for Solar-Flare Energy Release and Reconnection Onset](https://github.com/martinf001/Photony/releases/download/mbdos/Magnetic_Breakdown__A_Threshold_Driven_Mechanism_for_Solar_Flare_Energy_Release_and_Reconnection_Onset.pdf)
 
@@ -286,7 +287,7 @@ Particular attention is given to return-path discontinuities, common-mode conver
 
 ORCID: https://orcid.org/0000-0001-8102-380X
 
-DOI: https://doi.org/10.20944/preprints202609.0759.v1
+DOI: https://doi.org/10.20944/preprints202609.2407.v1
 
 Published 2026
 
