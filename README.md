@@ -271,7 +271,7 @@ Published 2026
 
 
 
-### Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity
+### Magnetic Breakdown: A Threshold-Driven Mechanism for Solar-Flare Energy Release and Reconnection Onset
 
 Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity develops a unified structural interpretation of unintended electromagnetic radiation, electromagnetic compatibility, and signal-integrity behavior. Conventional EMC and SI theory remains the quantitative foundation, including transmission-line behavior, impedance, reflections, resonance, differential- and common-mode currents, parasitic capacitance and inductance, return-path geometry, skin effect, shielding, near-field coupling, radiated emissions, and Poynting energy transport.
 
@@ -279,7 +279,7 @@ The article examines how traces, cables, connectors, shields, reference planes, 
 
 Particular attention is given to return-path discontinuities, common-mode conversion, reflections, standing waves, conductor-surface localization, crosstalk, ingress, egress, and the transition from controlled signal transport to unintended coupling or radiation. This paper examines conductive, capacitive, inductive, and radiative coupling as four interrelated pathways through which electromagnetic energy can move from a source, through a coupling path, to a victim.
 
-[Download Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity](https://github.com/martinf001/Photony/releases/download/unant/Beyond_Field_Line_Descriptions__Unintended_Antennas__EMC__and_Signal_Integrity.pdf)
+[Download Magnetic Breakdown: A Threshold-Driven Mechanism for Solar-Flare Energy Release and Reconnection Onset](https://github.com/martinf001/Photony/releases/download/mbdos/Magnetic_Breakdown__A_Threshold_Driven_Mechanism_for_Solar_Flare_Energy_Release_and_Reconnection_Onset.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
@@ -289,16 +289,6 @@ ORCID: https://orcid.org/0000-0001-8102-380X
 DOI: https://doi.org/10.20944/preprints202609.0759.v1
 
 Published 2026
-
-
-
-
-
-
-
-
-
-
 
 
 
