@@ -271,7 +271,24 @@ Published 2026
 
 
 
+### Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity
 
+Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity develops a unified structural interpretation of unintended electromagnetic radiation, electromagnetic compatibility, and signal-integrity behavior. Conventional EMC and SI theory remains the quantitative foundation, including transmission-line behavior, impedance, reflections, resonance, differential- and common-mode currents, parasitic capacitance and inductance, return-path geometry, skin effect, shielding, near-field coupling, radiated emissions, and Poynting energy transport.
+
+The article examines how traces, cables, connectors, shields, reference planes, enclosure structures, and other conductors can become unintended antennas when geometry, frequency, discontinuities, imbalance, or resonance allow substantial spatial variation of current and voltage. Within the Photony framework, internal electrons predominantly support current-associated magnetic structuring, while surface-associated electrons predominantly support voltage- and charge-associated electric structuring. Signal-integrity degradation and EMC behavior are treated as related consequences of changes in the organization, redistribution, coupling, and release of electromagnetic energy.
+
+Particular attention is given to return-path discontinuities, common-mode conversion, reflections, standing waves, conductor-surface localization, crosstalk, ingress, egress, and the transition from controlled signal transport to unintended coupling or radiation. This paper examines conductive, capacitive, inductive, and radiative coupling as four interrelated pathways through which electromagnetic energy can move from a source, through a coupling path, to a victim.
+
+[Download Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas](https://github.com/martinf001/Photony/releases/download/intant-v1/Beyond_Field_Line_Descriptions__Electromagnetic_Energy_Transport_in_Intended_Antennas.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202609.0759.v1
+
+Published 2026
 
 
 
