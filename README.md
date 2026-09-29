@@ -279,7 +279,7 @@ The article examines how traces, cables, connectors, shields, reference planes, 
 
 Particular attention is given to return-path discontinuities, common-mode conversion, reflections, standing waves, conductor-surface localization, crosstalk, ingress, egress, and the transition from controlled signal transport to unintended coupling or radiation. This paper examines conductive, capacitive, inductive, and radiative coupling as four interrelated pathways through which electromagnetic energy can move from a source, through a coupling path, to a victim.
 
-[Download Beyond Field-Line Descriptions: Electromagnetic Energy Transport in Intended Antennas](https://github.com/martinf001/Photony/releases/download/intant-v1/Beyond_Field_Line_Descriptions__Electromagnetic_Energy_Transport_in_Intended_Antennas.pdf)
+[Download Beyond Field-Line Descriptions: Unintended Antennas, EMC, and Signal Integrity](https://github.com/martinf001/Photony/releases/download/unant/Beyond_Field_Line_Descriptions__Unintended_Antennas__EMC__and_Signal_Integrity.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
