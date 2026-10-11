@@ -323,7 +323,7 @@ The discussion addresses quantum superposition, relative phase, Rabi oscillation
 
 Contribution: Establishes a preliminary structural framework connecting Photony electron transduction to physical quantum computing hardware and identifies the quantitative developments and experimental tests needed to evaluate the hypothesis.
 
-[Download A Photony Interpretation of Qubits and Quantum Computing](https://github.com/martinf001/Photony/releases/download/RELEASE_TAG/A_Photony_Interpretation_of_Qubits_and_Quantum_Computing.pdf)
+[Download A Photony Interpretation of Qubits and Quantum Computing](https://github.com/martinf001/Photony/releases/download/qbit/A_Photony_Interpretation_of_Qubits_and_Quantum_Computing.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
