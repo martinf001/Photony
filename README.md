@@ -300,7 +300,7 @@ A physical interpretation of quantum entanglement within Photony Theory is propo
 
 Rather than attributing entanglement correlations to faster-than-light communication or predetermined particle properties, the article investigates whether a shared structural constraint established during entanglement formation could account for correlated measurement outcomes. Bell's theorem, spin-singlet correlations, measurement dependence, quantum nonlocality, no-signaling requirements, and decoherence are examined. It identifies the mathematical derivations and experimental tests necessary to evaluate the proposed mechanism against established quantum mechanics.
 
-[Download A Photony Interpretation of Quantum Entanglement](https://github.com/martinf001/Photony/releases/download/entanglement/A.Photony.Interpretation.of.Quantum.Entanglement.pdf)
+[Download A Photony Interpretation of Quantum Entanglement](https://github.com/martinf001/Photony/releases/download/QEnt/A.Photony.Interpretation.of.Quantum.Entanglement.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
@@ -323,7 +323,7 @@ The discussion addresses quantum superposition, relative phase, Rabi oscillation
 
 Contribution: Establishes a preliminary structural framework connecting Photony electron transduction to physical quantum computing hardware and identifies the quantitative developments and experimental tests needed to evaluate the hypothesis.
 
-[Download A Photony Interpretation of Qubits and Quantum Computing](https://github.com/martinf001/Photony/releases/download/qbit/A_Photony_Interpretation_of_Qubits_and_Quantum_Computing.pdf)
+[Download A Photony Interpretation of Qubits and Quantum Computing](https://github.com/martinf001/Photony/releases/download/qbits/A_Photony_Interpretation_of_Qubits_and_Quantum_Computing.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
