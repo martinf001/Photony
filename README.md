@@ -313,11 +313,26 @@ Published 2026
 
 
 
+### A Photony Interpretation of Qubits and Quantum Computing
 
+This article extends Photony Theory into quantum computing by proposing a structural interpretation of electronic qubits based on electron c-spin, x-spin, electron transduction, and organized electromagnetic chain states.
 
+The investigation examines semiconductor electron-spin qubits and superconducting qubits, distinguishing individual electron behavior from collective electronic organization. It proposes that applied electromagnetic control may modify electron orientation, transduction geometry, and associated chain structures, providing a possible underlying physical interpretation of coherent qubit-state evolution.
 
+The discussion addresses quantum superposition, relative phase, Rabi oscillations, reversible quantum gates, multi-qubit entanglement, measurement, and decoherence. Particular emphasis is placed on the mathematical and experimental requirements necessary to determine whether the proposed Photony mechanisms can reproduce established quantum behavior.
 
+Contribution: Establishes a preliminary structural framework connecting Photony electron transduction to physical quantum computing hardware and identifies the quantitative developments and experimental tests needed to evaluate the hypothesis.
 
+[Download A Photony Interpretation of Qubits and Quantum Computing](https://github.com/martinf001/Photony/releases/download/RELEASE_TAG/A_Photony_Interpretation_of_Qubits_and_Quantum_Computing.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202610.0545.v1
+
+Published 2026
 
 
 
