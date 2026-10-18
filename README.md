@@ -169,9 +169,9 @@ Quanta, Particles & Chains details static loop storage versus dynamic propagatio
 
 Energy Releases & Fields explains solar magnetic reconnection as chain reassignment, axial-spin repulsion failure thresholds, and conductively driven breakdown modes, contrasting magnetic breakdown in high-conductivity solar plasmas with voltage or electric breakdown on Earth.
 
-Electrodynamics & Space Weather covers low-voltage high-current conduction, the 37.6 THz (λ ≈ 8 µm) threshold separating continuous chains from discrete photon quanta, external Poynting stress flow, and Space Weather EMC fire risks.
+Electrodynamics & Space Weather covers low-voltage, high-current conduction; the 37.6 THz (λ ≈ 8 µm) threshold separating continuous chains from discrete photon quanta; external Poynting stress flow; and Space Weather EMC fire risks.
 
-[Download FAQ Collection](https://github.com/martinf001/Photony/releases/latest/download/faqc/FAQ.Collection.pdf)
+[Download FAQ Collection](https://github.com/martinf001/Photony/releases/faqc/download/FAQ.Collection.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
