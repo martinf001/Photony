@@ -155,8 +155,19 @@ DOI: https://doi.org/10.5281/zenodo.22903609
 
 
 
+## FAQs
+
+### Photony Frequently Asked Questions
 
 
+
+
+[Download Causes and Predictors of Solar Storms](https://github.com/martinf001/Photony/releases/latest/download/Dissertation.with.final.chapter.2-17-2026.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+DOI: https://doi.org/10.5281/zenodo.22903609
 
 
 
