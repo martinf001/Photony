@@ -159,16 +159,24 @@ DOI: https://doi.org/10.5281/zenodo.22903609
 
 ### Photony Frequently Asked Questions
 
+This reference guide accompanies the Photony Math Compendium series. Grounded in a mechanical ontology, Photony Theory describes electromagnetic, gravitational, and quantum phenomena as emergent behaviors of organized elemental charge photons, photon chains, and electron-mediated transduction within a discrete, compressible Planck-scale lattice. The collection addresses 50 technical questions across five core modules.
 
+Planck Space & Geometry covers the discrete 1.616 × 10⁻³⁵ m lattice, the emergence of a Manhattan-to-Euclidean metric, mechanical lattice compression under energy load, and the 4π solid-angle compression factor. 
 
+Conceptual Mechanics details physical field energy storage, 1/r² orthogonal flux spreading, and quasi-static lattice equilibrium.
 
-[Download Causes and Predictors of Solar Storms](https://github.com/martinf001/Photony/releases/latest/download/Dissertation.with.final.chapter.2-17-2026.pdf)
+Quanta, Particles & Chains details static loop storage versus dynamic propagation, photon emergence, pair-production electron emergence with c-spin, mass without rest mass, and electron-mediated chain transduction.
+
+Energy Releases & Fields explains solar magnetic reconnection as chain reassignment, axial-spin repulsion failure thresholds, and conductively driven breakdown modes, contrasting magnetic breakdown in high-conductivity solar plasmas with voltage or electric breakdown on Earth.
+
+Electrodynamics & Space Weather covers low-voltage high-current conduction, the 37.6 THz (λ ≈ 8 µm) threshold separating continuous chains from discrete photon quanta, external Poynting stress flow, and Space Weather EMC fire risks.
+
+[Download FAQ Collection](https://github.com/martinf001/Photony/releases/latest/download/faqc/FAQ.Collection.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
 
-DOI: https://doi.org/10.5281/zenodo.22903609
-
+https://doi.org/10.5281/zenodo.18851231
 
 
 
