@@ -171,7 +171,7 @@ Energy Releases & Fields explains solar magnetic reconnection as chain reassignm
 
 Electrodynamics & Space Weather covers low-voltage, high-current conduction; the 37.6 THz (λ ≈ 8 µm) threshold separating continuous chains from discrete photon quanta; external Poynting stress flow; and Space Weather EMC fire risks.
 
-[Download FAQ Collection](https://github.com/martinf001/Photony/releases/faqc/download/FAQ.Collection.pdf)
+[Download FAQ Collection](https://github.com/martinf001/Photony/releases/download/faqsc/FAQ.Collection.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
