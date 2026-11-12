@@ -355,7 +355,32 @@ Published 2026
 
 
 
+### A Photony Interpretation of Qubits and Quantum Computing
 
+Laser-produced conducting structures offer a provocative alternative to the fixed geometry of
+conventional metallic antennas. Instead of fabricating an enduring conductive element, an optical
+system can deposit energy into a gaseous medium and generate a column of ionized particles. The
+resulting plasma responds to electromagnetic fields and may participate in radiation, guiding, or
+scattering. The optical origin of the ionized region distinguishes its material formation from that of
+a solid-metal antenna. The experimental literature includes several physically different arrangements
+that must not be conflated.
+
+Contribution: The present article combines the experimentally documented electromagnetic mechanisms with a
+substantially expanded analysis of their interpretation within Photony theory. Its emphasis is on the
+distinction between ionized matter and proposed energy filaments, electrons, and elemental charge photon
+populations, internal and boundary-associated transduction, chain continuity, alternating
+excitation, and radiation.
+
+[Download A Photony Interpretation of Plasma Antennas](https://github.com/martinf001/Photony/releases/download/Pant/A_Photony_Interpretation_of_Plasma_Antennas.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202611.0981.v1
+
+Published 2026
 
 
 
