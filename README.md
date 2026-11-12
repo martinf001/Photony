@@ -355,7 +355,7 @@ Published 2026
 
 
 
-### A Photony Interpretation of Qubits and Quantum Computing
+### A Photony Interpretation of Plasma Antennas
 
 Laser-produced conducting structures offer a provocative alternative to the fixed geometry of
 conventional metallic antennas. Instead of fabricating an enduring conductive element, an optical
@@ -381,6 +381,35 @@ ORCID: https://orcid.org/0000-0001-8102-380X
 DOI: https://doi.org/10.20944/preprints202611.0981.v1
 
 Published 2026
+
+
+
+### A Photony Interpretation of Plasma Stealth Radar-Wave Interaction, Electron Transduction, and Electromagnetic Energy Transport
+
+The phrase plasma stealth describes a proposed use of ionized gas to alter the interaction between
+an electromagnetic wave and a reflecting structure. The underlying interaction is physically
+credible: a plasma contains mobile charged particles that respond to electric fields and can modify
+electromagnetic phase, amplitude, polarization, and direction. Whether these changes decrease
+the observable return from a particular object is a different question. The wave can be absorbed,
+reflected, transmitted, scattered into other directions, or affected by several of these pathways at
+once.
+
+Contribution: Photony Theory provides a different, proposed microscopic vocabulary for these interactions.
+In the author’s Mathematical and Electromagnetic Compendia, electromagnetic organization is
+described in terms of elemental charge photons and electron-mediated electric- and magnetic-chain
+transduction.
+
+[Download A Photony Interpretation of Plasma Stealth Radar-Wave Interaction, Electron Transduction, and Electromagnetic Energy Transport](https://github.com/martinf001/Photony/releases/download/Pstealth/A_Photony_Interpretation_of_Plasma_Stealth.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202611.1033.v1
+
+Published 2026
+
 
 
 
