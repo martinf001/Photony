@@ -412,5 +412,40 @@ Published 2026
 
 
 
+### A Photony Interpretation of Photons
+
+Energy is identified in Photony Theory with physical photon organization rather than with
+an independent, featureless substance. The proposed fundamental energy carriers are elemental
+charge photons, each formed from an indexed energy filament in discrete, quasi-static Planck
+Space. Interlinking two elemental constituents produces the classical photon, while their larger,
+confined organizations are proposed to constitute mass.
+
+Contribution: A characteristic
+chain-to-chainlet rate near 37.6 THz is calculated from the cubic mass-scaling relation developed
+in earlier Photony work; its structural interpretation is considered separately from the existence
+of lower-frequency quantum photons. Related geometrical and electromagnetic photon models
+are compared to clarify what is distinctive about Photony. Established electromagnetic and
+quantum results are retained as quantitative benchmarks, and unresolved dynamical requirements
+are identified. The resulting framework prepares the corresponding study of electron emergence
+and the development of Photony Compendium Volume VII.
+
+[Download A Photony Interpretation of Plasma Stealth Radar-Wave Interaction, Electron Transduction, and Electromagnetic Energy Transport](https://github.com/martinf001/Photony/releases/download/Photons/A_Photony_Interpretation_of_Photons.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202611.1121.v1
+
+Published 2026
+
+
+
+
+
+
+
+
 
 
