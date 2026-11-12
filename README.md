@@ -429,7 +429,7 @@ quantum results are retained as quantitative benchmarks, and unresolved dynamica
 are identified. The resulting framework prepares the corresponding study of electron emergence
 and the development of Photony Compendium Volume VII.
 
-[Download A Photony Interpretation of Plasma Stealth Radar-Wave Interaction, Electron Transduction, and Electromagnetic Energy Transport](https://github.com/martinf001/Photony/releases/download/Photons/A_Photony_Interpretation_of_Photons.pdf)
+[Download A Photony Interpretation of Photons](https://github.com/martinf001/Photony/releases/download/Photons/A_Photony_Interpretation_of_Photons.pdf)
 
 **Author:** Dr. Fred Lane Martin, Ph.D.  
 **Research program:** Photony Theory
