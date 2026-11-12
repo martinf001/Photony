@@ -442,7 +442,30 @@ Published 2026
 
 
 
+### A Photony Interpretation of Electrons
 
+This article develops that interpretation as the electron companion
+to A Photony Interpretation of Photons. It separates the proposed internal circulation from
+experimentally established electron rest mass, charge, spin, magnetic moment, transport, and
+matter-wave behavior. A substantial examination of electron double-slit experiments emphasizes
+knife-edge diffraction, aperture boundaries, slit thickness, and the distinct roles of single-slit
+diffraction and coherent two-slit interference.
+
+Contribution: The paper identifies which predictions follow from the Photony hypotheses,
+which remain conditional, and which require a new electron-boundary dynamical law. The
+resulting formulation connects photon and electron structure while preserving the empirical
+demands of quantum mechanics and electromagnetism.
+
+[Download A Photony Interpretation of Electrons](https://github.com/martinf001/Photony/releases/download/Electrons/A_Photony_Interpretation_of_Electrons.pdf)
+
+**Author:** Dr. Fred Lane Martin, Ph.D.  
+**Research program:** Photony Theory
+
+ORCID: https://orcid.org/0000-0001-8102-380X
+
+DOI: https://doi.org/10.20944/preprints202611.1227.v1
+
+Published 2026
 
 
 
